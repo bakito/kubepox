@@ -3,4 +3,6 @@ cmd/kubepox/kubepox
 glide.lock
 vendor/
 docker/kubepox
+*.exe
+.idea
 
